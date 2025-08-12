@@ -1,4 +1,4 @@
-# Internship Application Portal
+# HireHub
 
 ## 📌 Description
 A centralized web application designed to provide students with access to verified, college-approved internship opportunities. The platform allows faculty or authorized college personnel to post and manage legitimate listings, ensuring students have a safe, transparent, and reliable way to explore and apply for internships relevant to their academic and career goals.
