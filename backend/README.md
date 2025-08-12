@@ -1,4 +1,4 @@
-# Internship Application Portal - Backend API
+# HireHub - Backend API
 
 A **Node.js/Express** backend API for managing internship applications between students and faculty members.
 
