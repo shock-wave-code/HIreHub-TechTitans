@@ -14,6 +14,8 @@ A **Node.js/Express** backend API for managing internship applications between s
 
 ### **Installation & Setup**
 
+**Clone the repository on local machine**
+
 1. **Navigate to the backend directory:**
    ```bash
    cd backend
