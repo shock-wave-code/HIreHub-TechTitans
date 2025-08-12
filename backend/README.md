@@ -34,7 +34,7 @@ A **Node.js/Express** backend API for managing internship applications between s
  - **http://localhost:3000/api-docs**
 
 # 📂 Project Structure
-backend/
-├── package.json          # Dependencies and scripts
-├── index.js             # Main application file
-├── README.md           # Minimal setup instructions 
+- backend/
+- ├── package.json          # Dependencies and scripts
+- ├── index.js             # Main application file
+- ├── README.md           # Minimal setup instructions 
