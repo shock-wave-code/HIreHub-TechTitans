@@ -7,7 +7,7 @@ It serves as the single source of truth for all API communication.
 
 ## 1. Authentication
 
-###1.1 Register User
+### 1.1 Register User
 - **Method:** POST  
 - **Endpoint:** /api/auth/register  
 - **Description:** Registers a new student or faculty user.  
